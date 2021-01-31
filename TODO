@@ -1,0 +1,7 @@
+Todo:
+  ☐ Number format for Billions
+  ☐ See if the API gives you LOW, Avarage, HIGH
+  ☐ Connnect to WebSockets sso you can retrieve data faster
+  ☐ Make the arrow function and the card to change colors based on the price going down or up
+  ☐ Search working
+  ☐ Side Menu Bar working with test buttons
